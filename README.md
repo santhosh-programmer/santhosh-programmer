@@ -10,7 +10,7 @@
 </p>
 
 <p>
-<img align="right" src="https://medium.com/@TopHat8855/vim-in-cat-gifs-577efadca833.gif" alt="coding image">
+<img align="right" src="https://medium.com/@TopHat8855/vim-in-cat-gifs-577efadca833" alt="coding image">
 </p>
 
 
