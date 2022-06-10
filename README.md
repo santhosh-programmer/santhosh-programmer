@@ -4,13 +4,13 @@
 - 🌱 I’m currently learning python and c
 - 💞 I’m looking to collaborate with aliens 🚀🚀
 
-<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santhosh-p-6b4a63227" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-p-6b4a63227" height="30" width="40"></a>
 </p>
-
+<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 <h3 align="left">Reach me:</h3>
 <p align="left">
