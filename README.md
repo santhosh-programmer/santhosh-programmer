@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with elon musk 🚀🚀
 - 📫 My Linkedin profile https://www.linkedin.com/in/santhosh-p-6b4a63227
 
-<!--
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-p-official&theme=tokyonight_duo)](https://git.io/streak-stats)
 
@@ -20,7 +20,7 @@
  <br></br>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-p-official&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<!--
 
 santhosh-p-official/santhosh-p-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
