@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Santhosh
 - 👀 I’m interested in learning programming languages ☺
-- 📚 A passionate learner from Earth 🌏
-- 🌱 I’m currently learning python and c
+- 📚 A passionate learner from Earth🌏, Solar System☀, Milky way 🌌
+- 🌱 I’m currently learning python🐍 and c
 - 💞 I’m looking to collaborate with aliens 🚀🚀
 
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
