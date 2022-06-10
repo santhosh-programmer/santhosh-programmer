@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python and c
 - 💞 I’m looking to collaborate with aliens 🚀🚀
 
-
+<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,6 @@
 <a href="mailto:santhoshp.official@gmail.com" target="_blank" ><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="santhosh's gmail" height="40" width="70"></a>
 </p>
 
-<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
