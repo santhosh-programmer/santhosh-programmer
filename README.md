@@ -18,7 +18,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-p-official&theme=tokyonight_duo)](https://git.io/streak-stats)
