@@ -1,10 +1,19 @@
 - 👋 Hi, I’m Santhosh
 - 👀 I’m interested in learning programming languages ☺
+- 📚A passionate learner from Earth 🌏
 - 🌱 I’m currently learning python and c
-- 💞️ I’m looking to collaborate with elon musk 🚀🚀
-- 📫 My Linkedin profile https://www.linkedin.com/in/santhosh-p-6b4a63227
+- 💞 I’m looking to collaborate with aliens 🚀🚀
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/santhosh-p-6b4a63227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-p-6b4a63227" height="30" width="40"></a>
+</p>
+<h3 align="left">Reach me:</h3>
+<p align="left">
+<a href="mailto:santhoshp.official@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="santhosh's gmail" height="40" width="70"></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-p-official&theme=tokyonight_duo)](https://git.io/streak-stats)
 
@@ -21,7 +30,6 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-p-official&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
-
 santhosh-p-official/santhosh-p-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
