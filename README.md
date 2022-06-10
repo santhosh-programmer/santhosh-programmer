@@ -13,7 +13,7 @@
 <a href="mailto:santhoshp.official@gmail.com" target="_blank" ><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="santhosh's gmail" height="40" width="70"></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-p-official&theme=tokyonight_duo)](https://git.io/streak-stats)
 
