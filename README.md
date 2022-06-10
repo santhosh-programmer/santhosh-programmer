@@ -4,13 +4,11 @@
 - 🌱 I’m currently learning python and c
 - 💞 I’m looking to collaborate with aliens 🚀🚀
 
+<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santhosh-p-6b4a63227" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-p-6b4a63227" height="30" width="40"></a>
-</p>
-
-<p>
-<img align="right" src="https://medium.com/@TopHat8855/vim-in-cat-gifs-577efadca833" alt="coding image">
 </p>
 
 
@@ -35,6 +33,7 @@
  
  <br></br>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-p-official&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 santhosh-p-official/santhosh-p-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
