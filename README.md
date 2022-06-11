@@ -21,15 +21,15 @@
 <h3 align="left">Languages:</h3>
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-p-official&theme=green_nur)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-p-official&theme=highcontrast)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=santhosh-p-official&label=PROFILE+VIEWS&style=plastic)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh-p-official&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh-p-official&show_icons=true&theme=chartreuse-dark" />
 </a>    
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-p-official&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-p-official&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark" />
  </a>
  
  <br></br>
