@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python🐍 and c
 - 💞 I’m looking to collaborate with aliens 🚀🚀
 
-<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="50%" height="50%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
