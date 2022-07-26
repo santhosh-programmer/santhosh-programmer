@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/santhosh-programmer" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh-programmer" height="30" width="40"></a>              
-<a href="https://www.hackerrank.com/__santhosh__p" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="__santhosh__p" height="45" width="45"></a>
+<a href="https://www.hackerrank.com/__santhosh__p" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="__santhosh__p" height="45" width="45"></a>
 </p>
 
 
