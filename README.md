@@ -30,9 +30,6 @@
 <br></br>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-programmer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 <!--[![Santhosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)-->
 
@@ -43,12 +40,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh-programmer&show_icons=true&theme=chartreuse-dark" />
 </a>
-<br>
+<br><br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark" />
  </a>
+ <br><br>
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-programmer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- <br></br>
+ <br>
 
 <!--
 santhosh-programmer/santhosh-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
