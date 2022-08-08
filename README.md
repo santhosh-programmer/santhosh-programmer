@@ -30,47 +30,11 @@
 <br></br>
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
-</a>
-  <br></br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhosh-programmer&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-programmer&theme=dark"> </a>
-</p>
-<br></br>
- -->
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-programmer&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 <!--[![Santhosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-programmer&theme=highcontrast)](https://git.io/streak-stats)
