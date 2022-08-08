@@ -30,7 +30,7 @@
 <br></br>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
@@ -42,7 +42,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-programmer&theme=dark"> </a>
 </p>
 <br></br>
-
+ -->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-programmer&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
