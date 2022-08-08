@@ -30,7 +30,7 @@
 <br></br>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-programmer&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-programmer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -39,11 +39,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-programmer&theme=highcontrast)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=santhosh-programmer&label=PROFILE+VIEWS&style=plastic)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh-programmer&show_icons=true&theme=chartreuse-dark" />
-</a>    
+</a>
+<br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark" />
  </a>
