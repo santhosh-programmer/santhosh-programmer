@@ -22,22 +22,72 @@
 <h3 align="left">Languages:</h3>
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-p-official&theme=highcontrast)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=santhosh-p-official&label=PROFILE+VIEWS&style=plastic)
+
+<p align="center">
+<br></br>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<br></br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
+</a>
+  <br></br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhosh-programmer&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-programmer&theme=dark"> </a>
+</p>
+<br></br>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-programmer&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<!--[![Santhosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-programmer&theme=highcontrast)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=santhosh-programmer&label=PROFILE+VIEWS&style=plastic)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh-p-official&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh-programmer&show_icons=true&theme=chartreuse-dark" />
 </a>    
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-p-official&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark" />
  </a>
  
  <br></br>
 
 
-<!--
-santhosh-p-official/santhosh-p-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+santhosh-programmer/santhosh-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
