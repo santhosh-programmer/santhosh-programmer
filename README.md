@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Santhosh
+<div align="center">
+<img src="source.gif" width="70%">
+</div>
+
+<br>
+
 - 👀 I’m interested in learning programming languages ☺
 - 📚 A passionate learner from Earth🌏, Solar System☀, Milky way 🌌
 - 🌱 I’m currently learning python🐍, C++, java and web development
 - 💞 I’m looking to collaborate with aliens 🚀🚀
 
-<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="30%" height="30%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,8 +52,6 @@
  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-programmer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
-
-<img src="SANTHOSH.gif" width="100%">
 
 
 <!--<img height="137px" src="https://github-readme-stats.vercel.app/api?username=santhosh-programmer&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
