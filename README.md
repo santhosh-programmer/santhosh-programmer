@@ -21,6 +21,7 @@
 <h3 align="left">Reach me:</h3>
 <p align="left">
 <a href="mailto:santhoshp.official@gmail.com" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="santhosh's gmail" height="40" width="40"></a>
+<a href="https://www.twitter.com/santhosh_pgmr" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="santhosh's gmail" height="40" width="40"></a>
 </p>
 
 
