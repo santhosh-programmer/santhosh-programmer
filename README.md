@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in learning programming languages ☺
 - 📚 A passionate learner from Earth🌏, Solar System☀, Milky way 🌌
-- 🌱 I’m currently learning python🐍, C++, java and web development
+- 🌱 I’m currently learning python🐍, C, C++, java and web development
 - 💞 I’m looking to collaborate with aliens 🚀🚀
 
 
