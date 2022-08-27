@@ -47,12 +47,10 @@
 <!--[![Santhosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-programmer&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh-programmer&theme=highcontrast)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh-programmer&show_icons=true&theme=chartreuse-dark" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh-programmer&show_icons=true&theme=chartreuse-dark" />
 <br><br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark" />
