@@ -38,9 +38,9 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=santhosh-programmer&style=for-the-badge)
 <p align="center">
-<br></br>
+<br>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<br></br>
+<br>
 </p>
 
 
@@ -51,11 +51,11 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh-programmer&show_icons=true&theme=chartreuse-dark" />
-<br><br>
+<br>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark" />
 
- <br><br>
+ <br>
  
 ![Santhosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santhosh-programmer&theme=react-dark&area=true)
 <br>
