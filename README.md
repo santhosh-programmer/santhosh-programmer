@@ -4,7 +4,6 @@
 
 <br>
 
-
 - 👀 I’m interested in learning programming languages ☺
 - 📚 A passionate learner from Earth🌏, Solar System☀, Milky way 🌌
 - 🌱 I’m currently learning python🐍, C, C++, java and web development
