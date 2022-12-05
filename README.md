@@ -1,5 +1,5 @@
 <div align="center">
-<img src="final1.gif" width="70%">
+<img src="final.gif" width="70%">
 </div>
 
 <br>
