@@ -52,7 +52,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=santhosh-programmer&show_icons=true&theme=chartreuse-dark" />
 <br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark" /> -->
 
 <!--  <br>
  
