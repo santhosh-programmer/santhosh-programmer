@@ -25,7 +25,7 @@
 
 
 <div align="center">
-    <h3>💘 Both GF's 🥵</h3>
+    <h3>Let's go for a ride 😉</h3>
    ‎
     <div align="center">
             <img src="https://skillicons.dev/icons?i=androidstudio" />
@@ -227,7 +227,14 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santhosh-programmer&theme=2077&utcOffset=05.30" alt="Most used languages"/>
 
   <br/><br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-programmer&layout=pie&langs_count=10&theme=dracula)
+
+  [![wakatime](https://wakatime.com/badge/user/018bc357-7f1e-4af4-8d85-09f2394a3250.svg)](https://wakatime.com/@018bc357-7f1e-4af4-8d85-09f2394a3250)
+  <br/>
   
+  ![](https://github-readme-stats.vercel.app/api/wakatime?username=santhosh_pgmr&theme=dracula)
+
+  <br/><br/>
   ![](https://forthebadge.com/images/badges/built-with-love.svg)
 </div>
 
